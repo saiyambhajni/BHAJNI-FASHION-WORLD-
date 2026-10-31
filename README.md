@@ -2,7 +2,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="BHAJNI FASHION WORLD — Premium ladies winter wear, night suits, lowers, nighties, cardigans and Kidley inner. Sector 9, Panchkula, SCO No. 14.">
+        <meta name="description" content="BHAJNI FASHION WORLD — Premium ladies winter wear, night suits, lowers, nighties, cardigans and Kidley inner. Sector 9, Panchkula, BOTH No. 14.">
         <title>BHAJNI FASHION WORLD — Winter Collection</title>
         <style>
             :root {
